@@ -35,3 +35,13 @@
 |string     |channels       |
 |bool       |pointers       |
 |structs    |functions      |
+
+
+### Map
+
+* Go Map
+* Ruby Hash
+* JS Object
+* Python Dict
+* PHP associate array
+

@@ -20,3 +20,18 @@
 * Array - fixed length list of things
 * Slice An array that can grow or shrink (сокращаться)
 * every element must be of same type
+
+|Arrays                 |Slices             |
+|:---:                  |:---:              |
+|Primitive data sructure|Can grow and shrink|
+|Can't resize           |Used 99% of the time for lists of elements|
+|Rarely used directly||
+
+
+|Value Types|Reference Types|
+|:---:      |:---:          |
+|int        |slices         |
+|float      |maps           |
+|string     |channels       |
+|bool       |pointers       |
+|structs    |functions      |
